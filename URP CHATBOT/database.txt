@@ -1,0 +1,16 @@
+What can you do?|I can answear to a list of question about URP, Educational System, Artificial Intelligence technologies and the Phylosophy of Ethics.
+How should I form my question?|Look, this is an example of question trained to answer: “How URP is done?” or “What are the main components of an AI system?”
+What URP stand for?|URP stand for Undergraduate Research Project.
+What is URP ?|Undergraduate Research Project is a academical investigation usually made with the purpose to enrich student experience.
+What is the URP subject ?|Ethical usage of Artificial Intelligence in Education.
+What is Education System?|Education System can be defined as a structure of what we do in society to ensure a bright future.
+How is education performed?|Usually, education is done by following a curriculum and is based into frameworks like public or private schools.
+Why education is important?|Main reason of education for humans is to develop into future, in society education have implications for better critical thinking, collaboration skills and problem solving.  
+How educational system can be improved?|Principal way of improvement is practice and perseverance; due to this, certain skills must be developed for educational improvement such as patience and understanding.
+Who discovered Artificial Intelligence?|First usage of term “Artificial Intelligence” come from Alan Turing paperwork called ”Computer Machinery and Intelligence”.
+What is the current state of Artificial Intelligence?|Artificial Intelligence is still a young computer artifact, in 2018 being adopted by 47% of large companies. 
+Why is Artificial Intelligence developed?|As being developed, AI enhance and develop further the speed, precision, and effectiveness of human efforts.
+Is Artificial Intelligence harmful ?|Ai technologies have the ability to perpetuate biased data witch lead to a multitude of concerns. 
+What are the benefits of Artificial Intelligence?|AI benefits complete what humans lack, which are automations, effectiveness, and processing speed.
+What is Ethics?|Ethics are moral principles that govern a person behavior.
+Why Ethic is important?|Ethics is what guide us to tell the truth, keep promises, or help someone in need. 
